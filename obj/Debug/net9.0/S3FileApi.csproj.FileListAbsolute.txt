@@ -1,0 +1,77 @@
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/appsettings.Development.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/appsettings.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/S3FileApi.staticwebassets.endpoints.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/S3FileApi
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/S3FileApi.deps.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/S3FileApi.runtimeconfig.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/S3FileApi.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/S3FileApi.pdb
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/AWSSDK.Core.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/AWSSDK.S3.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.csproj.AssemblyReference.cache
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.AssemblyInfoInputs.cache
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.AssemblyInfo.cs
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.csproj.CoreCompileInputs.cache
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.MvcApplicationPartsAssemblyInfo.cs
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.MvcApplicationPartsAssemblyInfo.cache
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/scopedcss/bundle/S3FileApi.styles.css
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets.build.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets.development.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets/msbuild.S3FileApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets/msbuild.S3FileApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets/msbuild.build.S3FileApi.props
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.S3FileApi.props
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.S3FileApi.props
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/staticwebassets.pack.json
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.csproj.Up2Date
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/refint/S3FileApi.dll
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.pdb
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/S3FileApi.genruntimeconfig.cache
+/home/rahulkumar/Desktop/S3FileApi/S3FileApi/obj/Debug/net9.0/ref/S3FileApi.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\appsettings.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\S3FileApi.staticwebassets.endpoints.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\S3FileApi.exe
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\S3FileApi.deps.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\S3FileApi.runtimeconfig.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\S3FileApi.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\S3FileApi.pdb
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\AWSSDK.S3.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.csproj.AssemblyReference.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.AssemblyInfoInputs.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.AssemblyInfo.cs
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\scopedcss\bundle\S3FileApi.styles.css
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.csproj.Up2Date
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\refint\S3FileApi.dll
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.pdb
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\S3FileApi.genruntimeconfig.cache
+C:\Users\Rahul Kumar\source\repos\Projects\S3FileAPi-main\S3FileApi\obj\Debug\net9.0\ref\S3FileApi.dll

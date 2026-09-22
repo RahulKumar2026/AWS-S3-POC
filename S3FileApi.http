@@ -1,0 +1,6 @@
+@S3FileApi_HostAddress = http://localhost:5146
+
+GET {{S3FileApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
